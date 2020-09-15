@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
-import './App.css';
+import './App.scss';
 import { Switch, BrowserRouter as Router, Route, Link } from 'react-router-dom';
 
 function NavBar(props) {
