@@ -10,7 +10,7 @@ import { initialState, AppContext } from './app_context';
 function App() {
 
   const [state, setState] = useState({
-    title: 'My Appz',
+    title: 'Kevin Freistroffer',
     setTitle: function (title) {
       setState({ ...state, title });
     }

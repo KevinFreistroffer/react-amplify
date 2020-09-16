@@ -1,0 +1,7 @@
+.form {
+    width: 100%;
+    max-width: 25rem;
+    padding: 3rem;
+    margin: 0 auto;
+    justify-content: space-around;
+}
